@@ -19,6 +19,10 @@ The project took approximately one day to finish. It has started on 26/09/2022 a
 
 The author is a trainee of AI Data Operator program which is organised by BeCode in Brussels. The project has been carried out as solo project assignment.
 
+## How to Install ?
+
+To install the hangman class (game), simply run main.py file in your terminal.
+
 ## Credits 
 
 My coaches, Pierre W. And Maxim, helped me to understand how to create a class object.
