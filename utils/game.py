@@ -87,8 +87,3 @@ class Hangman():
                 self.start_game()
             else:
                 print('see you again...')
-
-
-if __name__ == '__main__':
-    hangman_obj = Hangman()
-    hangman_obj.start_game()
